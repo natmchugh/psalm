@@ -16,3 +16,5 @@ class A {
     }
 }
 ```
+
+N.B. In order for the PDO sink to be enabled you will need to have the PDO extension enabled either via the pslam.xml config or having the PHP PDO extension in you composer.json.
